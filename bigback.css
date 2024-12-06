@@ -1,0 +1,32 @@
+img {
+    width: 80%;
+    /* Set the image width */
+    height: auto;
+    /* Maintain aspect ratio */
+    border-radius: 10px;
+    /* Rounded corners */
+    margin: 0 auto;
+    /* Center the image horizontally */
+}
+
+body,
+html {
+    height: 100%;
+    /* Full height */
+    margin: 0;
+    /* Remove default margin */
+    display: flex;
+    /* Use Flexbox */
+    align-items: center;
+    /* Center vertically */
+    justify-content: center;
+    /* Center horizontally */
+    background-color: aliceblue;
+    /* Optional background color */
+}
+
+h2 {
+    /* Center the heading text */
+    margin: 20px;
+    /* Add some space below the heading */
+}
